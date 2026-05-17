@@ -14,4 +14,4 @@ Focus: aarch64 NEON, AVX-512, Cortex-M / RISC-V embedded provers and verifiers.
 
 - [zkmcu.dev](https://zkmcu.dev): embedded ZK + low-level perf
 - [niek-kamer.github.io](https://niek-kamer.github.io): portfolio
-- info@axobello.com
+- niek@zkmcu.dev
